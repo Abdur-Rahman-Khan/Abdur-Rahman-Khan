@@ -65,6 +65,9 @@
 <a href="https://linkedin.com/in/abdurrahman-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdur" height="30" width="30" /></a>
 </p>
 
+![Abdur-Rahman-Khan Github stats](https://github-readme-stats.vercel.app/api?username=Abdur-Rahman-Khan)
+
+
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=calvinchankf" alt="calvinchankf" />
   <img src="https://badges.pufler.dev/years/calvinchankf" alt="calvinchankf" />
