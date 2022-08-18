@@ -54,12 +54,12 @@
 <!--   <img src="https://www.vectorlogo.zone/logos/mercurial-scm/mercurial-scm-icon.svg" alt="jenkins" width="40" height="40"/> -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="jenkins" width="40" height="40"/>
 </p>
-  
+<!--   
 - Others
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://linkedin.com/in/abdurrahman-khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdur" height="30" width="30" /></a>
