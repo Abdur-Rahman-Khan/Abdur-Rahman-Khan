@@ -1,8 +1,8 @@
 <h1 align="center">Hello World 👋 I'm AbdurRahman</h1>
-<h3 align="center">Software Engineer from India </h3>
+<h3 align="center">Software Engineer at **PayPal** from India </h3>
 
 <!-- - 👨🏻‍💻 I work at **Lowe's India** -->
-- 🤝 Previously, I interned at **TCS Innovation Labs**
+- 🤝 Previously, I worked before **Lowe's , Scaler, Tata Innovation Labs**
 - ➕➖✖️➗ Practising algorithms is a long-term investment, I do it [everyday](https://leetcode.com/Abdur_Rahman_Khan/)
 - 🏃🏻 As well as competitions,  ...etc
 - 🎮 Feel free to explore around my github, 
